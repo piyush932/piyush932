@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **b521044@iiit-bh.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c85f-FTWTITndu8IHSNtdbc0324_8r_H/view?usp=drive_link](https://drive.google.com/file/d/1c85f-FTWTITndu8IHSNtdbc0324_8r_H/view?usp=drive_link)
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1c85f-FTWTITndu8IHSNtdbc0324_8r_H/view?usp=drive_link](https://drive.google.com/file/d/1c85f-FTWTITndu8IHSNtdbc0324_8r_H/view?usp=drive_link)-->
 
 - ⚡ Fun fact **I Am An Otaku**
 
